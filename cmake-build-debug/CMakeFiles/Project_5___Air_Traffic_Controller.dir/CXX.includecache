@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Yea/ikt203/Projects/Project 5 - Air Traffic Controller/main.cpp
+iostream
+-
+SFML/Graphics.hpp
+-
+math.h
+-
+windows.h
+-
+stdlib.h
+-
+random
+-
+chrono
+-
+priorityqueue.h
+C:/Users/Yea/ikt203/Projects/Project 5 - Air Traffic Controller/priorityqueue.h
+
+C:/Users/Yea/ikt203/Projects/Project 5 - Air Traffic Controller/priorityqueue.h
+stdio.h
+-
+stdio.h
+-
+stdlib.h
+-
+
